@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="SSHLibrary" path="C:/Users/tmanjuna/Python/Python37-32/Lib/site-packages/SSHLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/tmanjuna/Python/Python37-32/Lib/site-packages/SeleniumLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="DatabaseLibrary" path="C:/Users/tmanjuna/Python/Python37-32/Lib/site-packages/DatabaseLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="DateTimeTZ" path="C:/Users/tmanjuna/Python/Python37-32/Lib/site-packages/DateTimeTZ/__init__.py"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
